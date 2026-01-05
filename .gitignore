@@ -1,0 +1,8 @@
+/.idea
+upx.exe
+config.yml
+/out
+hits.txt
+*.exe
+*_linux
+.webhook
